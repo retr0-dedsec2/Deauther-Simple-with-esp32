@@ -1,5 +1,8 @@
-How to build PlatformIO based project
-=====================================
+# Deauther-Simple-with-esp32
+
+You want a good project ethical hacking with wifi deauth this repo is for you
+
+## How to build PlatformIO based project
 
 1. [Install PlatformIO Core](https://docs.platformio.org/page/core.html)
 2. Download [development platform with examples](https://github.com/platformio/platform-espressif32/archive/develop.zip)
@@ -8,7 +11,7 @@ How to build PlatformIO based project
 
 ```shell
 # Change directory to example
-$ cd platform-espressif32/examples/espidf-arduino-wifiscan
+$ cd Deauther-Simple-with-esp32
 
 # Build project
 $ pio run
